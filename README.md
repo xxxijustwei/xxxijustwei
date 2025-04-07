@@ -1,6 +1,20 @@
-<h1>Hi 👋, I'm xxxijustwei</h1>
+<h2>Hi 👋, Please copy to your console and press Enter 👇</h2>
+
+```ts
+const whoiam = () => {
+    const msg = "%c 🥺👉👈 Profile of xxxijustwei";
+    const styles = [
+        "font-size: 12px", "color: #fffce1", "font-family: monospace",
+        "background: #0e100f", "display: inline-block", "padding: 1rem 3rem",
+        "border: 1px solid #fffce1", "border-radius: 4px;"
+    ].join(";");
+    console.log(msg, styles);
+}
+whoiam();
+```
+
 <p></p>
-<h2>🚀 Tech Stack</h2>
+<h3></h3>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
