@@ -2,7 +2,8 @@
 
 ```ts
 const whoiam = () => {
-    const msg = "%c 🥺👉👈 Profile of xxxijustwei";
+    const bio = "SGksIEknbSB4eHhpanVzdHdlaSwgd2VsY29tZSB0byBteSBHaXRIdWIu";
+    const msg = `%c 🥺👉👈 ${atob(bio)}`;
     const styles = [
         "font-size: 12px", "color: #fffce1", "font-family: monospace",
         "background: #0e100f", "display: inline-block", "padding: 1rem 3rem",
