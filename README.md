@@ -39,3 +39,4 @@ whoiam();
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=xxxijustwei)
