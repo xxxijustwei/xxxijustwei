@@ -1,7 +1,7 @@
 <h2>Hi 👋, Please copy to your console and press Enter 👇</h2>
 
 ```ts
-const whoiam = () => {
+const whoami = () => {
     const bio = "SGksIEknbSB4eHhpanVzdHdlaSwgd2VsY29tZSB0byBteSBHaXRIdWIu";
     const msg = `%c 🥺👉👈 ${atob(bio)}`;
     const styles = [
@@ -11,7 +11,7 @@ const whoiam = () => {
     ].join(";");
     console.log(msg, styles);
 }
-whoiam();
+whoami();
 ```
 
 <p></p>
