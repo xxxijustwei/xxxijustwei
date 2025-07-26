@@ -2,14 +2,14 @@
 
 ```ts
 const whoami = () => {
-    const bio = "SGksIEknbSB4eHhpanVzdHdlaSwgd2VsY29tZSB0byBteSBHaXRIdWIu";
-    const msg = `%c 🥺👉👈 ${atob(bio)}`;
-    const styles = [
-        "font-size: 12px", "color: #fffce1", "font-family: monospace",
-        "background: #0e100f", "display: inline-block", "padding: 1rem 3rem",
-        "border: 1px solid #fffce1", "border-radius: 4px;"
-    ].join(";");
-    console.log(msg, styles);
+  const bio = "SGksIEknbSB4eHhpanVzdHdlaSwgd2VsY29tZSB0byBteSBHaXRIdWIu";
+  const msg = `%c 🥺👉👈 ${atob(bio)}`;
+  const styles = [
+      "font-size: 12px", "color: #fffce1", "font-family: monospace",
+      "background: #0e100f", "display: inline-block", "padding: 1rem 3rem",
+      "border: 1px solid #fffce1", "border-radius: 4px;"
+  ].join(";");
+  console.log(msg, styles);
 }
 whoami();
 ```
