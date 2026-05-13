@@ -1,7 +1,7 @@
 ### Hi
 
 - I use: `.tsx`, `.ts`, `.sol`
-- Workbench: `codex`, `claude code`, `cursor`
+- Workbench: `codex`, `claude code`
 
 
 ### Tech
